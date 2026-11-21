@@ -1,0 +1,7 @@
+{
+  "B cells": ["CD19", "CD20"],
+  "T cells": ["CD3"],
+  "Red pulp macrophages": ["F4_80", "CD163"],
+  "CD169+ macrophages": ["CD169_siglec"],
+  "Neutrophils": ["Ly6G"]
+}

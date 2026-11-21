@@ -1,0 +1,22 @@
+# Downloaded datasets and generated outputs
+/data/
+/results/
+*.h5
+*.h5ad
+*.hdf5
+*.tar.gz
+*.zip
+*.pt
+*.pth
+
+# Local environments and editor/cache files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+.env
+*.log

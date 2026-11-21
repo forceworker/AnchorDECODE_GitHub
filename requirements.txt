@@ -1,0 +1,10 @@
+# General dependencies. For the recommended NVIDIA GPU installation,
+# install requirements-gpu.txt, which explicitly selects the CUDA build.
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+torch>=2.1
+# SPOTS file reader and visualization
+h5py>=3.8
+matplotlib>=3.7
